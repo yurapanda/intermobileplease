@@ -1,0 +1,33 @@
+
+
+	<div class="background-home">
+
+	</div>
+	<% if user_signed_in? %>
+	
+	<% else %>
+	<div class="container">
+		<div class="row" >
+			<div class="col-xs-9 col-sm-6 col-md-6">
+				<div class="login-form">
+					<h2>Log in</h2>
+					<br>
+					<%= simple_form_for(:user, :url => session_path(:user)) do |f| %>
+						<%= f.input :email, label: 'Email' %>
+						<%= f.input :password, label: 'Password'%>
+						<%= f.button :submit, "Sign In" , class: "btn btn-primary" %>
+						<%= link_to "Sign Up" , new_user_registration_path, class: "btn btn-default" %>
+					<% end %>
+					</div>
+				</div>
+		
+		
+	</div>
+	<%end %>
+	<div class="website-tagline cursive-texts">
+		<h1>
+			Be Notified.<br>
+			Be Updated. <br>
+			Be Worry-free. <br>
+		</h1>
+	</div>

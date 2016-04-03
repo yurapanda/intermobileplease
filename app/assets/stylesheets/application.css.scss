@@ -1,0 +1,143 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+
+ $white : #fdfdfd;
+
+html{
+	padding:0;
+}
+
+@import 'bootstrap-sprockets';
+@import 'bootstrap';
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800|Pacifico);
+
+
+//navbar collapse border
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #FFFFFF;
+}
+.navbar-inverse {
+	z-index: 0;
+	font-size: 1.9rem;
+    background-color: #75d9d9;
+    border-color: #75d9d9;
+    border-bottom-color: bisque;
+    li>a{
+    	color: $white !important;
+    	}
+    .navbar-brand{
+    	font-size: 2.5rem;
+    	color: $white !important;
+    	font-weight: 400;
+		
+	}
+}
+
+.cursive-texts{
+	font-family: 'Pacifico', cursive !important;
+	
+}
+
+
+
+.well-sm {
+    padding: 9px;
+    border-radius: 3px;
+    margin-bottom: 40px;
+}
+/* footer section */
+
+
+.footer-section {
+  background: $white;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.footer-section.static {
+  position: static;
+}
+
+.website-tagline >h1 {
+    position: fixed;
+    text-align: right;
+    top: 34%;
+    left: 60%;
+    color: $white;
+    font-size: 6rem;
+
+}
+
+
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Pacifico', cursive;
+}
+
+p, div{
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+/* media queries for 768 px */
+
+@media only screen and (max-width: 768px) {
+ .website-tagline >h1 {
+    position: fixed;
+    text-align: right;
+    top: 34%;
+    left: 60%;
+    color: $white;
+    font-size: 5rem;
+
+}
+}
+
+@media only screen and (max-width: 640px) {
+ .website-tagline >h1 {
+    position: fixed;
+    text-align: right;
+    top: 34%;
+    left: 40%;
+    color: $white;
+    font-size: 5rem;
+
+	}
+}
+
+@media only screen and (max-width: 360px) {
+ .website-tagline >h1 {
+    position: fixed;
+    text-align: right;
+    top: 60%;
+    left: 15%;
+    color: $white;
+    font-size: 4rem;
+
+}
+}
+

@@ -1,0 +1,28 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Plate number:</strong>
+  <%= @car.plate_number %>
+</p>
+
+<p>
+  <strong>Car model:</strong>
+  <%= @car.car_model.car_brand.name %><%= @car.car_model.name %>
+</p>
+
+<p>
+  <strong>Contact number:</strong>
+  <%= @car.contact_number %>
+</p>
+
+<p>
+  <strong>Model year:</strong>
+  <%= @car.model_year %>
+</p>
+
+<%= @car.user.email %>
+
+<% if can? :update %>
+	<%= link_to 'Edit', edit_car_path(@car) %> |
+<% end %>
+<%= link_to 'Back', cars_path %>

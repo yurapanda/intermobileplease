@@ -1,0 +1,368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"categor",
+				"category_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/initializers/devise.rb",
+			"settings":
+			{
+				"buffer_size": 13127,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/initializers/rails_admin.rb",
+			"settings":
+			{
+				"buffer_size": 780,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/seeds.rb",
+			"settings":
+			{
+				"buffer_size": 1631,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rome/RailsApp/intermobile",
+		"/home/rome/RailsApp/intermobile/config",
+		"/home/rome/RailsApp/intermobile/config/initializers",
+		"/home/rome/RailsApp/intermobile/db"
+	],
+	"file_history":
+	[
+		"/home/rome/RailsApp/intermobile/config/initializers/kaminari.rb",
+		"/home/rome/Desktop/intermobile/app/views/devise/registrations/new.html.erb",
+		"/home/rome/Desktop/intermobile/app/views/layouts/application.html.erb",
+		"/home/rome/Desktop/intermobile/app/views/devise/sessions/new.html.erb",
+		"/home/rome/Desktop/intermobile/app/models/city.rb",
+		"/home/rome/Desktop/intermobile/app/models/user.rb",
+		"/home/rome/Desktop/intermobile/db/migrate/20160330205900_drop_users_table.rb",
+		"/home/rome/Desktop/intermobile/db/migrate/20160330210002_add_devise_to_users.rb",
+		"/home/rome/Desktop/intermobile/config/routes.rb",
+		"/home/rome/Desktop/intermobile/db/migrate/20160330203351_add_devise_to_users.rb",
+		"/home/rome/Desktop/intermobile/app/views/layouts/_footer.html.erb",
+		"/home/rome/Desktop/intermobile/app/assets/javascripts/application.js",
+		"/home/rome/SITSystems/HeadsSalon/app/models/user.rb",
+		"/home/rome/SITSystems/HeadsSalon/app/models/appointment.rb",
+		"/home/rome/SITSystems/HeadsSalon/app/controllers/services_controller.rb",
+		"/home/rome/SITSystems/HeadsSalon/app/controllers/products_controller.rb",
+		"/home/rome/SITSystems/HeadsSalon/app/views/appointments/_form.html.erb",
+		"/home/rome/SITSystems/HeadsSalon/app/controllers/appointments_controller.rb",
+		"/home/rome/SITSystems/HeadsSalon/db/migrate/20160329020302_add_service_to_appoitnment.rb",
+		"/home/rome/SITSystems/HeadsSalon/db/migrate/20160329015152_add_services_to_appointments.rb",
+		"/home/rome/SITSystems/HeadsSalon/app/models/category.rb",
+		"/home/rome/SITSystems/HeadsSalon/app/models/product.rb",
+		"/home/rome/SITSystems/HeadsSalon/app/views/products/_form.html.erb",
+		"/home/rome/SITSystems/HeadsSalon/app/views/services/_form.html.erb",
+		"/home/rome/SITSystems/HeadsSalon/app/controllers/staffs_controller.rb",
+		"/home/rome/SITSystems/HeadsSalon/Gemfile",
+		"/home/rome/SITSystems/HeadsSalon/app/models/service.rb",
+		"/home/rome/SITSystems/HeadsPOS/db/migrate/20160304012734_create_items.rb",
+		"/home/rome/SITSystems/HeadsPOS/app/views/products/index.html.erb",
+		"/home/rome/SITSystems/HeadsPOS/app/views/customers/index.html.erb",
+		"/home/rome/SITSystems/HeadsPOS/app/views/services/index.html.erb",
+		"/home/rome/SITSystems/HeadsPOS/app/views/stylists/index.html.erb",
+		"/home/rome/SITSystems/HeadsPOS/app/assets/stylesheets/home.scss",
+		"/home/rome/SITSystems/HeadsPOS/app/models/item_category.rb",
+		"/home/rome/Downloads/pushvendor-master/app/controllers/dashboard_controller.rb",
+		"/home/rome/Downloads/pushvendor-master/app/helpers/application_helper.rb",
+		"/home/rome/Downloads/pushvendor-master/app/views/dashboard/_logged_in.html.erb",
+		"/home/rome/Downloads/pushvendor-master/app/views/template/_sales_summary.html.erb",
+		"/home/rome/Downloads/pushvendor-master/config/locales/secrets.yml",
+		"/home/rome/Downloads/pushvendor-master/config/locales/database.yml",
+		"/home/rome/Documents/HRapp/app/controllers/employees_controller.rb",
+		"/home/rome/Documents/jerrome/app/assets/stylesheets/application.css.scss",
+		"/home/rome/Documents/jerrome/app/assets/javascripts/application.js",
+		"/home/rome/Documents/jerrome/app/assets/stylesheets/custom.css.scss",
+		"/home/rome/Documents/jerrome/config/database.yml",
+		"/home/rome/Documents/appd/db/migrate/20160127044523_create_users.rb"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"car_company",
+			"plate_number",
+			"contact_number",
+			"contact_number ",
+			"last_name",
+			"first_name",
+			"password",
+			"email",
+			"password",
+			"#b",
+			"mage: url(loginwelcomepa.svg)",
+			"loginwelcomepa",
+			">\n",
+			"if",
+			"path",
+			"services_path",
+			"/td>",
+			"<td>",
+			"rake",
+			"Products",
+			"Product",
+			"service",
+			"services",
+			"customer",
+			"product",
+			"sale.find",
+			"rem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/rome/RailsApp/intermobile"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/initializers/devise.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								913,
+								913
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/initializers/rails_admin.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								750,
+								750
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 290.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "db/seeds.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 35.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 467.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
